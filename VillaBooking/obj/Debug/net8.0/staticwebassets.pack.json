@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VillaBooking.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VillaBooking.bzcj6n3p0x.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Room Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Room Images\\1.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Room Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Room Images\\2.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Room Images\\3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Room Images\\3.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Room Images\\4.jpg",
+      "PackagePath": "staticwebassets\\Images\\Room Images\\4.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Room Images\\5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Room Images\\5.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Room Images\\6.jpg",
+      "PackagePath": "staticwebassets\\Images\\Room Images\\6.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Room Images\\7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Room Images\\7.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Villa\\439cb733-0cf1-4e43-873f-af3a7b0598e5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Villa\\439cb733-0cf1-4e43-873f-af3a7b0598e5.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Villa\\653ca51b-b26e-46ac-9809-89884547b73c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Villa\\653ca51b-b26e-46ac-9809-89884547b73c.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Villa\\659ae3dd-081f-4ca6-86f1-a92363d986b1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Villa\\659ae3dd-081f-4ca6-86f1-a92363d986b1.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Villa\\97bb9592-eb71-474a-ae22-bbaa835a8981.jpg",
+      "PackagePath": "staticwebassets\\Images\\Villa\\97bb9592-eb71-474a-ae22-bbaa835a8981.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Villa\\a1272894-7597-49d5-82a6-9bd149e23232.jpg",
+      "PackagePath": "staticwebassets\\Images\\Villa\\a1272894-7597-49d5-82a6-9bd149e23232.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Villa\\a3903bb7-ad51-4be1-abeb-cfc321f4c223.jpg",
+      "PackagePath": "staticwebassets\\Images\\Villa\\a3903bb7-ad51-4be1-abeb-cfc321f4c223.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Villa\\ded5b833-70b7-41bb-b196-2e60685d02f1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Villa\\ded5b833-70b7-41bb-b196-2e60685d02f1.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\Villa\\f47d8500-e9e0-432b-b8df-7dc10b50f7bd.jpg",
+      "PackagePath": "staticwebassets\\Images\\Villa\\f47d8500-e9e0-432b-b8df-7dc10b50f7bd.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\accessDenied.jpg",
+      "PackagePath": "staticwebassets\\Images\\accessDenied.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\notfound.jpg",
+      "PackagePath": "staticwebassets\\Images\\notfound.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\orderConfirmed.jpg",
+      "PackagePath": "staticwebassets\\Images\\orderConfirmed.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\placeholder.png",
+      "PackagePath": "staticwebassets\\Images\\placeholder.png"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\resort.png",
+      "PackagePath": "staticwebassets\\Images\\resort.png"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\slide1.jpg",
+      "PackagePath": "staticwebassets\\Images\\slide1.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\Images\\slide2.jpg",
+      "PackagePath": "staticwebassets\\Images\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\css\\apexcharts.css",
+      "PackagePath": "staticwebassets\\css\\apexcharts.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\jquery-ajax-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\jquery-ajax-unobtrusive\\README.md",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\README.md"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\dist\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\jquery-ajax-unobtrusive\\package-lock.json",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\package-lock.json"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\jquery-ajax-unobtrusive\\package.json",
+      "PackagePath": "staticwebassets\\jquery-ajax-unobtrusive\\package.json"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Booking.js",
+      "PackagePath": "staticwebassets\\js\\Booking.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\GetTotalBookings.js",
+      "PackagePath": "staticwebassets\\js\\Dashboard\\GetTotalBookings.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\getCustomerAndBookingLineChart.js",
+      "PackagePath": "staticwebassets\\js\\Dashboard\\getCustomerAndBookingLineChart.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\getCustomerBookingPieChart.js",
+      "PackagePath": "staticwebassets\\js\\Dashboard\\getCustomerBookingPieChart.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\getTotalRevenueRadial.js",
+      "PackagePath": "staticwebassets\\js\\Dashboard\\getTotalRevenueRadial.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\getTotalUserRadial.js",
+      "PackagePath": "staticwebassets\\js\\Dashboard\\getTotalUserRadial.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\radailChart.js",
+      "PackagePath": "staticwebassets\\js\\Dashboard\\radailChart.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\js\\apexcharts.amd.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VillaBooking.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VillaBooking.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VillaBooking.props",
+      "PackagePath": "build\\VillaBooking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VillaBooking.props",
+      "PackagePath": "buildMultiTargeting\\VillaBooking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VillaBooking.props",
+      "PackagePath": "buildTransitive\\VillaBooking.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

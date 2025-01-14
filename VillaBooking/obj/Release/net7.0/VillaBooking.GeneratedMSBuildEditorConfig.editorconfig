@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = VillaBooking
+build_property.RootNamespace = VillaBooking
+build_property.ProjectDir = D:\Villa_Booking_System\VillaBookingSol\VillaBooking\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Villa_Booking_System\VillaBookingSol\VillaBooking
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Amenity/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Amenity/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Amenity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW1lbml0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/VillaNumber/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/VillaNumber/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/VillaNumber/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/VillaNumber/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Villa/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Villa/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Villa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Villa/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Villa_Booking_System/VillaBookingSol/VillaBooking/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bsfkb1clbu

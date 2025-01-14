@@ -1,0 +1,15 @@
+D:\Villa_Booking_System\VillaBookingSol\Application\bin\Debug\net7.0\Application.deps.json
+D:\Villa_Booking_System\VillaBookingSol\Application\bin\Debug\net7.0\Application.dll
+D:\Villa_Booking_System\VillaBookingSol\Application\bin\Debug\net7.0\Application.pdb
+D:\Villa_Booking_System\VillaBookingSol\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Villa_Booking_System\VillaBookingSol\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Villa_Booking_System\VillaBookingSol\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Villa_Booking_System\VillaBookingSol\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Villa_Booking_System\VillaBookingSol\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Villa_Booking_System\VillaBookingSol\Application\obj\Debug\net7.0\Application.dll
+D:\Villa_Booking_System\VillaBookingSol\Application\obj\Debug\net7.0\refint\Application.dll
+D:\Villa_Booking_System\VillaBookingSol\Application\obj\Debug\net7.0\Application.pdb
+D:\Villa_Booking_System\VillaBookingSol\Application\obj\Debug\net7.0\ref\Application.dll
+D:\Villa_Booking_System\VillaBookingSol\Application\bin\Debug\net7.0\Domain.dll
+D:\Villa_Booking_System\VillaBookingSol\Application\bin\Debug\net7.0\Domain.pdb
+D:\Villa_Booking_System\VillaBookingSol\Application\obj\Debug\net7.0\Application.csproj.CopyComplete

@@ -1,0 +1,9 @@
+﻿@using Application.Common.Utility
+﻿@if (User.IsInRole(SD.RoleAdmin))
+{
+    Layout = "_LayoutAdmin";
+}
+else
+{
+    Layout = "_Layout";
+}

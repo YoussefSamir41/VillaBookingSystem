@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Villa_Booking_System\\VillaBookingSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|d:\\villa_booking_system\\villabookingsol\\villabooking\\wwwroot\\js\\dashboard\\getcustomerbookingpiechart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|solutionrelative:villabooking\\wwwroot\\js\\dashboard\\getcustomerbookingpiechart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|d:\\villa_booking_system\\villabookingsol\\villabooking\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|solutionrelative:villabooking\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|d:\\villa_booking_system\\villabookingsol\\villabooking\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|solutionrelative:villabooking\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|d:\\villa_booking_system\\villabookingsol\\villabooking\\viewmodels\\piechartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|solutionrelative:villabooking\\viewmodels\\piechartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|d:\\villa_booking_system\\villabookingsol\\villabooking\\wwwroot\\js\\dashboard\\getcustomerandbookinglinechart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|solutionrelative:villabooking\\wwwroot\\js\\dashboard\\getcustomerandbookinglinechart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|d:\\villa_booking_system\\villabookingsol\\villabooking\\wwwroot\\js\\dashboard\\gettotalbookings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|solutionrelative:villabooking\\wwwroot\\js\\dashboard\\gettotalbookings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|d:\\villa_booking_system\\villabookingsol\\villabooking\\wwwroot\\js\\dashboard\\gettotalrevenueradial.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|solutionrelative:villabooking\\wwwroot\\js\\dashboard\\gettotalrevenueradial.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|d:\\villa_booking_system\\villabookingsol\\villabooking\\wwwroot\\js\\dashboard\\radailchart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|solutionrelative:villabooking\\wwwroot\\js\\dashboard\\radailchart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|d:\\villa_booking_system\\villabookingsol\\villabooking\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|solutionrelative:villabooking\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|d:\\villa_booking_system\\villabookingsol\\villabooking\\viewmodels\\linechartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86180E6D-95C5-469F-AD93-CB5C68ACA125}|VillaBooking\\VillaBooking.csproj|solutionrelative:villabooking\\viewmodels\\linechartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 457,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "VillaBooking\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "VillaBooking\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwJAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T23:35:21.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "getCustomerBookingPieChart.js",
+              "DocumentMoniker": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\getCustomerBookingPieChart.js",
+              "RelativeDocumentMoniker": "VillaBooking\\wwwroot\\js\\Dashboard\\getCustomerBookingPieChart.js",
+              "ToolTip": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\getCustomerBookingPieChart.js",
+              "RelativeToolTip": "VillaBooking\\wwwroot\\js\\Dashboard\\getCustomerBookingPieChart.js",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-02T00:01:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PieChartVM.cs",
+              "DocumentMoniker": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\ViewModels\\PieChartVM.cs",
+              "RelativeDocumentMoniker": "VillaBooking\\ViewModels\\PieChartVM.cs",
+              "ToolTip": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\ViewModels\\PieChartVM.cs",
+              "RelativeToolTip": "VillaBooking\\ViewModels\\PieChartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:09:35.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "getCustomerAndBookingLineChart.js",
+              "DocumentMoniker": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\getCustomerAndBookingLineChart.js",
+              "RelativeDocumentMoniker": "VillaBooking\\wwwroot\\js\\Dashboard\\getCustomerAndBookingLineChart.js",
+              "ToolTip": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\getCustomerAndBookingLineChart.js",
+              "RelativeToolTip": "VillaBooking\\wwwroot\\js\\Dashboard\\getCustomerAndBookingLineChart.js",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-02T00:12:20.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "VillaBooking\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "VillaBooking\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T23:41:36.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTotalBookings.js",
+              "DocumentMoniker": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\GetTotalBookings.js",
+              "RelativeDocumentMoniker": "VillaBooking\\wwwroot\\js\\Dashboard\\GetTotalBookings.js",
+              "ToolTip": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\GetTotalBookings.js",
+              "RelativeToolTip": "VillaBooking\\wwwroot\\js\\Dashboard\\GetTotalBookings.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-01T23:43:17.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "getTotalRevenueRadial.js",
+              "DocumentMoniker": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\getTotalRevenueRadial.js",
+              "RelativeDocumentMoniker": "VillaBooking\\wwwroot\\js\\Dashboard\\getTotalRevenueRadial.js",
+              "ToolTip": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\getTotalRevenueRadial.js",
+              "RelativeToolTip": "VillaBooking\\wwwroot\\js\\Dashboard\\getTotalRevenueRadial.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-01T23:44:15.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "radailChart.js",
+              "DocumentMoniker": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\radailChart.js",
+              "RelativeDocumentMoniker": "VillaBooking\\wwwroot\\js\\Dashboard\\radailChart.js",
+              "ToolTip": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\wwwroot\\js\\Dashboard\\radailChart.js",
+              "RelativeToolTip": "VillaBooking\\wwwroot\\js\\Dashboard\\radailChart.js",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-02T01:40:04.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "VillaBooking\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "VillaBooking\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:50:49.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LineChartVM.cs",
+              "DocumentMoniker": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\ViewModels\\LineChartVM.cs",
+              "RelativeDocumentMoniker": "VillaBooking\\ViewModels\\LineChartVM.cs",
+              "ToolTip": "D:\\Villa_Booking_System\\VillaBookingSol\\VillaBooking\\ViewModels\\LineChartVM.cs",
+              "RelativeToolTip": "VillaBooking\\ViewModels\\LineChartVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T00:45:34.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

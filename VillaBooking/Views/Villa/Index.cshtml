@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Domain.Entities.Villa>
+
+
+
+<div class="container">
+    <h1 class="text-center bg-success text-white py-3">Villa List</h1>
+</div>
+
+<div class="card-body border p-4">
+    <div class="row p-3">
+        <div class="col-6 offset-6 text-end">
+            <a asp-controller="Villa" asp-action="Create" class="btn btn-success">
+                <i class="bi bi-plus-circle"> </i>   Create New Villa
+            </a>
+        </div>
+    </div>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr class="table-header">
+                <th class="header-name">Name</th>
+                <th class="header-price">Price</th>
+                <th class="header-sqft">Sqft</th>
+                <th class="header-occupancy">Occupancy</th>
+                <th class="align-content-center">Update</th>
+                <th class="align-content-center">Delete</th>
+                
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var obj in Model)
+            {
+                <tr>
+                    <td>
+                        @obj.Name
+                    </td>
+                    <td>
+                        @obj.Price
+                    </td>
+                    <td>
+                        @obj.Sqft
+                    </td>
+                    <td>
+                        @obj.Occupancy
+                    </td>
+
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a asp-controller="villa" asp-action="Update" asp-route-id="@obj.Id"
+                               class="btn btn-success mx-2">
+                               <i class="bi bi-pencil-square"></i> Update
+                           </a>
+                          
+                        </div>
+                    </td>
+                    
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a asp-controller="villa" asp-action="Delete" asp-route-id="@obj.Id"
+                               class="btn btn-danger mx-2">
+                               <i class="bi bi-trach-fill"></i> Delete
+                           </a>
+                          
+                        </div>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+</div>
+

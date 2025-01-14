@@ -1,0 +1,71 @@
+﻿@model Domain.Entities.Villa
+
+<div class="container">
+    <h1 class="text-center bg-danger text-white py-3">Delete Villa</h1>
+</div>
+
+<div class="card-body p-4">
+    <form asp-action="Delete" method="post">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="alert alert-warning" role="alert">
+                    Are you sure you want to delete this villa? This action cannot be undone.
+                </div>
+
+                <input asp-for="Id" type="hidden" />
+
+                <table class="table table-striped table-bordered">
+                    <tbody>
+                        <tr>
+                            <th scope="row">Name</th>
+                            <td>@Model.Name</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Description</th>
+                            <td>@Model.Description</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Price</th>
+                            <td>$@Model.Price</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Square Feet</th>
+                            <td>@Model.Sqft</td>
+                        </tr>
+                        <tr hidden>
+                            <th scope="row">Image URL</th>
+                            <td><a href="@Model.ImageUrl" target="_blank">@Model.ImageUrl</a></td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Occupancy</th>
+                            <td>@Model.Occupancy</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div class="row p-2">
+                    <div class="col-6 col-md-3">
+                        <button type="submit" class="btn btn-danger w-100">
+                            <i class="bi bi-trash"></i> Delete
+                        </button>
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <a asp-controller="Villa" asp-action="Index" class="btn btn-secondary w-100">
+                            <i class="bi bi-arrow-left-circle"></i> Back
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="text-center">
+                    <img src="@Model.ImageUrl" class="img-fluid" style="border-radius:5px; border:1px solid #bbb9b9; max-height:300px;" />
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
